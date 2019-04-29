@@ -40,14 +40,14 @@
          </Changes>
          <Changes>
             <Tab>Annex</Tab>
-            <Section>18885551212</Section>
+            <Section>185551212</Section>
             <Key>DNIS</Key>
             <Value>2100</Value>
             <ActionType>Add</ActionType>
          </Changes>
          <Changes>
             <Tab>Annex</Tab>
-            <Section>1888WalMart</Section>
+            <Section>8WalMart</Section>
             <Key>Play</Key>
             <Value>http://Appserver29.aws.com/playivr.vxml</Value>
             <ActionType>Add</ActionType>
@@ -71,9 +71,9 @@
          </prod>
          <Changes>
             <Tab>Annex</Tab>
-            <Section>18885551212</Section>
+            <Section>188855</Section>
             <Key>eMsg</Key>
-            <Value>yes</Value>
+            <Value>no</Value>
             <ActionType>Add</ActionType>
          </Changes>
       </Change_Details>
