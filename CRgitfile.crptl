@@ -1,5 +1,5 @@
 <XML>
-   <Version>2.9</Version>
+   <Version>2.10</Version>
    <CR_Detail>
       <dev>
          <Host>192.168.200.210</Host>
@@ -41,14 +41,14 @@
          </Changes>
          <Changes>
             <Tab>Annex</Tab>
-            <Section>185551212</Section>
+            <Section>18555122</Section>
             <Key>DNIS</Key>
             <Value>2100</Value>
             <ActionType>Add</ActionType>
          </Changes>
          <Changes>
             <Tab>Annex</Tab>
-            <Section>8WalMart</Section>
+            <Section>8WalMat</Section>
             <Key>Play</Key>
             <Value>http://Appserver29.aws.com/playivr.vxml</Value>
             <ActionType>Add</ActionType>
@@ -72,13 +72,13 @@
          </prod>
          <Changes>
             <Tab>Annex</Tab>
-            <Section>188855</Section>
+            <Section>18885</Section>
             <Key>eMsg</Key>
             <Value>no</Value>
             <ActionType>Add</ActionType>
          </Changes>
       </Change_Details>
    </CR_Detail>
-   <EmailNotification>mail.com</EmailNotification>
+   <EmailNotification>yuvaraj.boopathy@pointelsolutions.com</EmailNotification>
    <ApplyNotes>Sprint 5 Genesys Changes Applied</ApplyNotes>
 </XML>
