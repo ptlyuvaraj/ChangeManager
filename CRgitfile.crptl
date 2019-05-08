@@ -1,5 +1,5 @@
 <XML>
-   <Version>2.11</Version>
+   <Version>2.12</Version>
    <CR_Detail>
       <dev>
          <Host>192.168.200.210</Host>
@@ -41,14 +41,14 @@
          </Changes>
          <Changes>
             <Tab>Annex</Tab>
-            <Section>18555122</Section>
+            <Section>18552</Section>
             <Key>DNIS</Key>
-            <Value>2100</Value>
+            <Value>210</Value>
             <ActionType>Add</ActionType>
          </Changes>
          <Changes>
             <Tab>Annex</Tab>
-            <Section>Test</Section>
+            <Section>Test1</Section>
             <Key>Play</Key>
             <Value>http://Appserver29.aws.com/playivr.vxml</Value>
             <ActionType>Add</ActionType>
@@ -72,7 +72,7 @@
          </prod>
          <Changes>
             <Tab>Annex</Tab>
-            <Section>18885</Section>
+            <Section>Test</Section>
             <Key>eMsg</Key>
             <Value>no</Value>
             <ActionType>Add</ActionType>
