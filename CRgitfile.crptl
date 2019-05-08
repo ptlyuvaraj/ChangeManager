@@ -48,7 +48,7 @@
          </Changes>
          <Changes>
             <Tab>Annex</Tab>
-            <Section>8WalMat</Section>
+            <Section>Test</Section>
             <Key>Play</Key>
             <Value>http://Appserver29.aws.com/playivr.vxml</Value>
             <ActionType>Add</ActionType>
