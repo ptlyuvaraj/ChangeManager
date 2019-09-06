@@ -1,5 +1,5 @@
 <XML>
-   <Version>2.12</Version>
+   <Version>2.13</Version>
    <CR_Detail>
       <dev>
          <Host>192.168.200.210</Host>
@@ -73,7 +73,7 @@
          <Changes>
             <Tab>Annex</Tab>
             <Section>Test</Section>
-            <Key>eMs1233</Key>
+            <Key>eMs33</Key>
             <Value>no</Value>
             <ActionType>Add</ActionType>
          </Changes>
