@@ -48,7 +48,7 @@
          </Changes>
          <Changes>
             <Tab>Annex</Tab>
-            <Section>Test</Section>
+            <Section>Testing</Section>
             <Key>Play</Key>
             <Value>http://Appserver29.aws.com/playivr.vxml</Value>
             <ActionType>Add</ActionType>
@@ -80,5 +80,5 @@
       </Change_Details>
    </CR_Detail>
    <EmailNotification>yuvaraj.boopathy@pointelsolutions.com</EmailNotification>
-   <ApplyNotes>Sprint 5 Genesys Changes Applied</ApplyNotes>
+   <ApplyNotes>Sprint 6 Genesys Changes Applied</ApplyNotes>
 </XML>
