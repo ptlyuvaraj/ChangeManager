@@ -1,0 +1,26 @@
+<XML>
+   <CR_Detail>
+      <number>CR19263193676</number>
+      <title>TestCR</title>
+      <environment>Staging</environment>
+      <risk>Low</risk>
+      <urgency>Low</urgency>
+      <createdName>Raj</createdName>
+      <description>Test</description>
+      <plannedTime>2019-09-20 00:00:00.0</plannedTime>
+      <targetHost>192.168.200.206</targetHost>
+      <targetPort>2020</targetPort>
+      <targetClientName>default</targetClientName>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>NortelTServer@123</objectName>
+         <propTab>Annex</propTab>
+         <secKey>111</secKey>
+         <optionKey>1</optionKey>
+         <applyValue>123</applyValue>
+         <actionType>Add</actionType>
+      </Change_Details>
+   </CR_Detail>
+   <EmailNotification></EmailNotification>
+   <ApplyNotes></ApplyNotes>
+</XML>
