@@ -1,5 +1,5 @@
 <XML>
-   <Version>2.19</Version>
+   <Version>3.1</Version>
    <CR_Detail>
       <dev>
          <Host>192.168.200.210</Host>
@@ -80,5 +80,5 @@
       </Change_Details>
    </CR_Detail>
    <EmailNotification>mail.com</EmailNotification>
-   <ApplyNotes>Sprint 5 Genesys Changes Applied</ApplyNotes>
+   <ApplyNotes>Sprint 6 Genesys Changes Applied</ApplyNotes>
 </XML>
