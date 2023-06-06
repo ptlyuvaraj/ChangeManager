@@ -1,1 +1,21 @@
 
+{
+  "crTitle": "Testing_Rest_CR1",
+  "crDesc": "Testing_Rest_CR created by rest service",
+  "sourceOrgName": "Pointel2",
+  "targetOrgName": "pointelwdr",
+  "objectDetails": {
+    "DataTable": [
+      {
+        "objectName": "GET_DEFAULT_VALUES",
+        "actionType": "Create"
+      }
+    ],
+    "Skill": [
+      {
+        "objectName": "FC_PC_2",
+        "actionType": "Create"
+      }
+    ]
+  }
+}
