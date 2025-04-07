@@ -1,5 +1,5 @@
 <XML>
-   <Version>2.10</Version>
+   <Version>3.1</Version>
    <CR_Detail>
       <dev>
          <Host>192.168.200.210</Host>
@@ -73,12 +73,12 @@
          <Changes>
             <Tab>Annex</Tab>
             <Section>1112</Section>
-            <Key>eMsg1</Key>
-            <Value>yes</Value>
+            <Key>1234</Key>
+            <Value>111</Value>
             <ActionType>Add</ActionType>
          </Changes>
       </Change_Details>
    </CR_Detail>
    <EmailNotification>mail.com</EmailNotification>
-   <ApplyNotes>Sprint 5 Genesys Changes Applied</ApplyNotes>
+   <ApplyNotes>Sprint 6 Genesys Changes Applied</ApplyNotes>
 </XML>
